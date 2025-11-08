@@ -1,5 +1,5 @@
 # 📘 RAG (Retrieval-Augmented Generation) Mini Project👇
-
+📘 [Open in Google Colab](https://colab.research.google.com/drive/1-MbSFbT-Ojqzf56sDmnY9LeTi03ORuvl?usp=sharing)
 ---
 
 ## 🧠 **Project Summary**
